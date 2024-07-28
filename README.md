@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamnabi&label=Profile%20views&color=0e75b6&style=flat" alt="islamnabi" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+- 🤝 I’m looking for help with **Big Data and Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IslamNabi](https://github.com/IslamNabi)
 
 - 📫 How to reach me **islamnabics@gmail.com**
 
-- ⚡ Fun fact **I think I am so emotional.**
+- ⚡ Fun fact **Data  Enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
