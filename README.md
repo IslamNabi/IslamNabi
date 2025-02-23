@@ -1,19 +1,19 @@
 ![logo](https://github.com/IslamNabi/IslamNabi/blob/main/Banner2%20-%20Copy.jpg)
 <h1 align="center">Hi 👋, I'm Islam Nabi</h1>
-<h3 align="center">An energetic Computer Scientist from Pakistan, diving into data engineering and uncovering the exciting world of big data analytics.</h3>
+<h3 align="center">An energetic Computer Scientist from Pakistan, diving into AI and uncovering the exciting world of Machine Learning analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamnabi&label=Profile%20views&color=0e75b6&style=flat" alt="islamnabi" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Big Data and Analytics**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IslamNabi](https://github.com/IslamNabi)
 
 - 📫 How to reach me **islamnabics@gmail.com**
 
-- ⚡ Fun fact **Data  Enthusiast.**
+- ⚡ Fun fact **ML Enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
