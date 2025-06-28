@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **islamnabics@gmail.com**
 
-- ⚡ Fun fact ** I can explain backpropagation faster than I can recite the alphabet backward.**
+- ⚡ Fun fact **Not replacing humans, but augmenting our potential.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
