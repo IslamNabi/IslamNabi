@@ -1,6 +1,6 @@
 ![logo](https://github.com/IslamNabi/IslamNabi/blob/main/Banner2%20-%20Copy.jpg)
 <h1 align="center">Hi 👋, I'm Islam Nabi</h1>
-<h3 align="center">A Passionate Computer Scientist from Pakistan, Skilled in AI, Machine Learning, and Deep Learning, now uncovering the cutting-edge realm of Agnetic AI to push the boundaries of intelligent systems.</h3>
+<h3 align="center">A Passionate Computer Scientist from Pakistan, Skilled in AI, Machine Learning and Deep Learning. Now Uncovering the Cutting-edge Realm of Agnetic AI to Push the Boundaries of Intelligent Systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamnabi&label=Profile%20views&color=0e75b6&style=flat" alt="islamnabi" /> </p>
