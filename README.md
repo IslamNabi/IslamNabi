@@ -1,19 +1,19 @@
 ![logo](https://github.com/IslamNabi/IslamNabi/blob/main/Banner2%20-%20Copy.jpg)
 <h1 align="center">Hi 👋, I'm Islam Nabi</h1>
-<h3 align="center">An energetic Computer Scientist from Pakistan, diving into AI and uncovering the exciting world of Machine Learning.</h3>
+<h3 align="center">A Passionate Computer Scientist from Pakistan, Skilled in AI, Machine Learning, and Deep Learning, now uncovering the cutting-edge realm of Agnetic AI to push the boundaries of intelligent systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamnabi&label=Profile%20views&color=0e75b6&style=flat" alt="islamnabi" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IslamNabi](https://github.com/IslamNabi)
 
 - 📫 How to reach me **islamnabics@gmail.com**
 
-- ⚡ Fun fact **ML Enthusiast.**
+- ⚡ Fun fact ** I can explain backpropagation faster than I can recite the alphabet backward.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
