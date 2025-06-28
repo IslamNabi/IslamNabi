@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **islamnabics@gmail.com**
 
-- ⚡ Fun fact **Not replacing humans, but augmenting our potential.**
+- ⚡ AI **Not replacing humans, but augmenting our potential.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
