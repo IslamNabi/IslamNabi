@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Islam%20Nabi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20ML%2FDL%20%7C%20Speech%20AI&descAlignY=60&descColor=a78bfa](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Islam%20Nabi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Gen%20AI%20%7C%20Voice%20AI%20%7C%20DL%2FML%20%7C%20Python&descAlignY=60&descColor=a78bfa)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Islam%20Nabi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Gen%20AI%20%7C%20Voice%20AI%20%7C%20DL%2FML%20%7C%20Python&descAlignY=60&descColor=a78bfa" width="100%"/>
 
 <br/>
 
