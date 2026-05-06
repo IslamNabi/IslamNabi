@@ -20,44 +20,44 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class IslamNabi:
     role      = "AI Engineer | Agentic AI Developer"
-    location  = "Lahore, Pakistan 🇵🇰"
+    location  = "Lahore, Pakistan"
     focus     = ["Agentic AI", "LLM Systems", "Speech AI", "Computer Vision"]
     currently = "Building intelligent AI-driven systems @ Mayfair Asian Food Industries"
     learning  = "Multi-Agent Architectures · Advanced RAG · LLM Fine-Tuning"
     motto     = "AI doesn't replace humans — it amplifies what we can do."
 ```
 
-- 🔭 Associate AI Engineer building **real-world, production-grade AI systems**
-- 🎙️ Hands-on with **Speech AI** — ASR, TTS, voice enhancement, multilingual models
-- 🤖 Deep focus on **Agentic AI** — autonomous agents, RAG pipelines, LLM orchestration
-- ☁️ Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps cycles
-- 🎓 BSc Computer Science — Sukkur IBA University (2021–2024)
+- Associate AI Engineer building **real-world, production-grade AI systems**
+- Hands-on with **Speech AI** — ASR, TTS, voice enhancement, multilingual models
+- Deep focus on **Agentic AI** — autonomous agents, RAG pipelines, LLM orchestration
+- Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps cycles
+- BSc Computer Science — Sukkur IBA University (2021–2024)
 
 ---
 
-## ⚡ Agentic AI & Advanced AI Systems
+## Agentic AI & Advanced AI Systems
 
 > *The frontier I'm actively building on.*
 
 | Capability | Tools & Frameworks |
 |---|---|
-| 🤖 **Agentic Workflows** | LangChain · LangGraph · ReAct Agents · Tool-Use Agents |
-| 🔍 **RAG Pipelines** | FAISS · Vector DBs · Hybrid Search · Contextual Retrieval |
-| 🧩 **LLM Orchestration** | LangChain · Prompt Engineering · Function Calling · Chains |
-| 🗣️ **Speech AI Systems** | Whisper (ASR) · VITS · XTTS · VAD · Speaker Embeddings |
-| 🔧 **LLM Fine-Tuning** | LoRA · PEFT · Hugging Face Transformers · WER Evaluation |
-| 🚀 **AI Deployment** | FastAPI · Streamlit · Flask · Docker · AWS EC2/S3 |
-| 📊 **MLOps & Monitoring** | MLflow · CI/CD Pipelines · GPU Inference Optimization |
-| 👁️ **Computer Vision** | YOLOv9 · OpenCV · CNNs · Transfer Learning · Face Recognition |
+| **Agentic Workflows** | LangChain · LangGraph · ReAct Agents · Tool-Use Agents |
+| **RAG Pipelines** | FAISS · Vector DBs · Hybrid Search · Contextual Retrieval |
+| **LLM Orchestration** | LangChain · Prompt Engineering · Function Calling · Chains |
+| **Speech AI Systems** | Whisper (ASR) · VITS · XTTS · VAD · Speaker Embeddings |
+| **LLM Fine-Tuning** | LoRA · PEFT · Hugging Face Transformers · WER Evaluation |
+| **AI Deployment** | FastAPI · Streamlit · Flask · Docker · AWS EC2/S3 |
+| **MLOps & Monitoring** | MLflow · CI/CD Pipelines · GPU Inference Optimization |
+| **Computer Vision** | YOLOv9 · OpenCV · CNNs · Transfer Learning · Face Recognition |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -94,9 +94,9 @@ class IslamNabi:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏭 AI-Based HS Code & Landed Cost Estimation System
+### AI-Based HS Code & Landed Cost Estimation System
 > RAG · LLMs · FastAPI · AWS · FBR Pakistan Customs Tariff
 
 - Built a **production-grade RAG pipeline** for HS code retrieval from Pakistan's customs tariff database
@@ -105,7 +105,7 @@ class IslamNabi:
 
 ---
 
-### 👁️ Employee Attendance System (CCTV-Based)
+### Employee Attendance System (CCTV-Based)
 > Python · Computer Vision · Deep Learning · OpenCV · Face Recognition
 
 - End-to-end **CCTV-based attendance system** with real-time face recognition and automated logging
@@ -114,7 +114,7 @@ class IslamNabi:
 
 ---
 
-### 🚗 Smart Vehicle Insurance Risk Assessment System
+### Smart Vehicle Insurance Risk Assessment System
 > Python · ML · FastAPI · AWS · CI/CD
 
 - Complete **ML pipeline** for insurance risk scoring with automated underwriting logic
@@ -123,7 +123,7 @@ class IslamNabi:
 
 ---
 
-### 🦴 Wrist Abnormality Detection System
+### Wrist Abnormality Detection System
 > YOLOv9 · Flask · LLMs · Medical Imaging
 
 - **X-ray abnormality detection** using YOLOv9 with clinical-grade precision
@@ -132,7 +132,7 @@ class IslamNabi:
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Company |
 |---|---|---|
@@ -143,14 +143,14 @@ class IslamNabi:
 | **Jul – Aug 2024** | Frontend Developer Intern | InternnCraft — Remote |
 
 **Highlights:**
-- 🎙️ Built **GPU-optimized Speech AI pipelines** with Whisper, VITS, XTTS — production-ready, low-latency
-- 🤖 Applied **LoRA fine-tuning** on speech models with rigorous WER evaluation
-- 🧠 Trained and evaluated **LLMs for code reasoning** at Remotasks — improving output accuracy at scale
-- 🏗️ Completed intensive **12-week AI bootcamp** covering the full stack: ML → LLMs → Agents → Deployment
+- Built **GPU-optimized Speech AI pipelines** with Whisper, VITS, XTTS — production-ready, low-latency
+- Applied **LoRA fine-tuning** on speech models with rigorous WER evaluation
+- Trained and evaluated **LLMs for code reasoning** at Remotasks — improving output accuracy at scale
+- Completed intensive **12-week AI bootcamp** covering the full stack: ML → LLMs → Agents → Deployment
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -163,7 +163,7 @@ class IslamNabi:
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 > Open to collaborations on **Agentic AI systems**, **LLM applications**, and **production ML pipelines**.
 
