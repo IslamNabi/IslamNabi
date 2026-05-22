@@ -109,11 +109,12 @@ class IslamNabi:
 ---
 
 ### AI-Based HS Code & Landed Cost Estimation System
-> RAG · LLMs · FastAPI · AWS · FBR Pakistan Customs Tariff
+> RAG · LLMs · FastAPI · AWS · FAISS · LangChain · OpenAI · FBR Pakistan Customs Tariff
 
-- Built a **production-grade RAG pipeline** for HS code retrieval from Pakistan's customs tariff database
-- Integrated full **landed cost estimation** customs duties, shipping costs for e-commerce applications
-- Deployed on **AWS** with FastAPI backend; handles real-world trade compliance queries at scale
+- Engineered a production-grade RAG pipeline over FBR Pakistan's full customs tariff database with table-aware PDF extraction and hierarchical category/heading detection achieving above ~95% coverage across 7,500+ indexed HS codes
+- Implemented an 8-step FBR-compliant HS classification engine combining regex-based product name extraction, GPT-4o-mini attribute extraction, FAISS vector search, soft chapter boosting, and LLM final selection achieving near 90% classification accuracy
+- Architected a compound customs duty calculator implementing Pakistan's official sequential tax formula (CD → ACD → RD → ST → IT → GST → CESS) with a TCS shipping cost engine for complete AED→PKR landed cost breakdown consumable directly at e-commerce checkout
+- Deployed on AWS EC2 with FastAPI backend, Gunicorn + Uvicorn workers, and Nginx reverse proxy handling real-world trade compliance queries at scale
 
 ---
 
