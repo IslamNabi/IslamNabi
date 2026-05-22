@@ -97,13 +97,13 @@ class IslamNabi:
 ## Featured Projects
 
 ### AI Sales Intelligence System for FMCG
-> ReAct Agent · Text-to-SQL · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
+> ReAct (Reasoning + Action) Framework · Text-to-SQL Agent · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
 
-- Built an **ETL pipeline** using Polars & Pandas to ingest regional Excel sales dumps into a PostgreSQL data warehouse — processing 150,000+ daily records with automated KPI view refresh across 12 materialized views
-- Engineered a **real-time KPI dashboard** with sales trend analytics, weighted day-over-day growth, regional breakdowns, and top SKU performance — backed by materialized views for sub-second query response
-- Architected an **autonomous Text-to-SQL ReAct agent** using LangChain & LangGraph that translates plain-English sales queries into optimized SQL against a live PostgreSQL warehouse — every response fully grounded in real query results, zero hallucinations
-- Designed a **token-efficient reasoning pipeline** by engineering the SQL layer to return minimal, precision-targeted result sets — significantly reducing LLM reasoning overhead while preserving full analytical accuracy across complex multi-step queries
-- Implemented a **hardened SQL execution layer** with SELECT-only enforcement, row-limit guardrails, structured error propagation back into the agent scratchpad, and iteration/retry caps — enabling autonomous self-recovery and controlled termination without cascading failures
+- Built an **ETL pipeline** using Polars & Pandas to ingest regional Excel sales dumps into a PostgreSQL data warehouse processing 150,000+ daily records with automated KPI view refresh across 12 materialized views
+- Engineered a **real-time KPI dashboard** with sales trend analytics, weighted day-over-day growth, regional breakdowns, and top SKU performance backed by materialized views for sub-second query response
+- Architected an **autonomous Text-to-SQL ReAct agent** using LangChain & LangGraph that translates plain-English sales queries into optimized SQL against a live PostgreSQL warehouse every response fully grounded in real query results, zero hallucinations
+- Designed a **token-efficient reasoning pipeline** by engineering the SQL layer to return minimal, precision-targeted result sets significantly reducing LLM reasoning overhead while preserving full analytical accuracy across complex multi-step queries
+- Implemented a **hardened SQL execution layer** with SELECT-only enforcement, row-limit guardrails, structured error propagation back into the agent scratchpad, and iteration/retry caps enabling autonomous self-recovery and controlled termination without cascading failures
 
 ---
 
