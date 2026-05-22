@@ -100,7 +100,7 @@ class IslamNabi:
 > RAG · LLMs · FastAPI · AWS · FBR Pakistan Customs Tariff
 
 - Built a **production-grade RAG pipeline** for HS code retrieval from Pakistan's customs tariff database
-- Integrated full **landed cost estimation** — customs duties, shipping costs — for e-commerce applications
+- Integrated full **landed cost estimation** customs duties, shipping costs for e-commerce applications
 - Deployed on **AWS** with FastAPI backend; handles real-world trade compliance queries at scale
 
 ---
@@ -110,7 +110,7 @@ class IslamNabi:
 
 - End-to-end **CCTV-based attendance system** with real-time face recognition and automated logging
 - Designed for **enterprise environments** with multi-camera support and high-accuracy detection
-- Fully automated attendance pipeline — no manual intervention required
+- Fully automated attendance pipeline no manual intervention required
 
 ---
 
@@ -118,7 +118,7 @@ class IslamNabi:
 > Python · ML · FastAPI · AWS · CI/CD
 
 - Complete **ML pipeline** for insurance risk scoring with automated underwriting logic
-- Deployed with **CI/CD automation** on AWS — production-ready from day one
+- Deployed with **CI/CD automation** on AWS production-ready from day one
 - Includes model versioning, drift monitoring, and retraining hooks
 
 ---
@@ -127,7 +127,7 @@ class IslamNabi:
 > YOLOv9 · Flask · LLMs · Medical Imaging
 
 - **X-ray abnormality detection** using YOLOv9 with clinical-grade precision
-- Integrated **LLM-powered automated reporting** — generates structured diagnostic summaries
+- Integrated **LLM-powered automated reporting** generates structured diagnostic summaries
 - Bridges computer vision and natural language for real-world medical AI applications
 
 ---
