@@ -35,6 +35,7 @@ class IslamNabi:
 - Associate AI Engineer building **real-world, Production-Grade AI Systems**
 - Hands-on with **Speech AI**, ASR, TTS, Voice Enhancement, Multilingual Models
 - Deep focus on **Agentic AI**, Autonomous Agents, RAG Pipelines, LLM Orchestration
+- Hands-on with **Computer Vision**, Object Detection, Face Recognition, Medical Imaging
 - Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps Cycles
 - BS Computer Science from Sukkur IBA University (2021–2024)
 
