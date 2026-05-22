@@ -97,7 +97,7 @@ class IslamNabi:
 
 ## Featured Projects
 
-### AI Sales Intelligence System for FMCG Company
+### AI Sales Intelligence System
 > ReAct (Reasoning + Action) Framework · Text-to-SQL Agent · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
 
 - Built an **ETL pipeline** using Polars & Pandas to ingest regional Excel sales dumps into a PostgreSQL data warehouse processing 150,000+ daily records with automated KPI view refresh across 12 materialized views
@@ -144,7 +144,7 @@ class IslamNabi:
 
 ---
 
-### Visitor Management System — FMCG Company
+### Visitor Management System
 > Next.js 16 · React 19 · TypeScript · MongoDB · AWS S3 · Tailwind CSS 4 · Serverless API
 
 - Architected a **full-stack enterprise visitor management system** on Next.js 16 App Router with serverless API routes featuring role-based access control (Admin/Receptionist), session-based authentication, and distinct capability sets per role enforced at both UI and API levels
