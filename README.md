@@ -97,7 +97,7 @@ class IslamNabi:
 
 ## Featured Projects
 
-### AI Sales Intelligence System for FMCG
+### AI Sales Intelligence System for FMCG Company
 > ReAct (Reasoning + Action) Framework · Text-to-SQL Agent · LangChain · LangGraph · ETL · Polars · Pandas · FastAPI · Next.js · PostgreSQL
 
 - Built an **ETL pipeline** using Polars & Pandas to ingest regional Excel sales dumps into a PostgreSQL data warehouse processing 150,000+ daily records with automated KPI view refresh across 12 materialized views
