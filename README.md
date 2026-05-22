@@ -119,11 +119,13 @@ class IslamNabi:
 ---
 
 ### Employee Attendance System (CCTV-Based)
-> Python · Computer Vision · Deep Learning · OpenCV · Face Recognition
+> Computer Vision · InsightFace · Buffalo Model · FAISS · PostgreSQL · Next.js · OpenCV · Python · Deep Learning
 
-- End-to-end **CCTV-based attendance system** with real-time face recognition and automated logging
-- Designed for **enterprise environments** with multi-camera support and high-accuracy detection
-- Fully automated attendance pipeline no manual intervention required
+- Engineered an end-to-end real-time face recognition pipeline on live CCTV streams using InsightFace's Buffalo model for simultaneous face detection and 512-dim embedding generation with multi-camera support achieving greater than 95% recognition accuracy
+- Implemented a FAISS-powered identity matching layer using cosine similarity to compare live embeddings against registered face vectors in real-time — unknown faces rejected, known faces instantly matched and marked present with zero manual intervention
+- Built a runtime attendance logging system backed by PostgreSQL instantly recording verified identities, timestamps, and attendance status on every recognition match fully automated from detection to database write
+- Engineered an employee lifecycle management module allowing HR to register new employees by capturing face embeddings directly into FAISS index and PostgreSQL, and delete employees with synchronized removal from both vector store and database maintaining index integrity
+- Developed a Next.js HR management dashboard for real-time attendance monitoring, recognition event tracking, employee record management, and one-click daily attendance sheet export to Excel replacing entire manual attendance workflow with a fully automated pipeline
 
 ---
 
