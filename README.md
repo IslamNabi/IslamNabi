@@ -33,10 +33,10 @@ class IslamNabi:
 ```
 
 - Associate AI Engineer building **real-world, production-grade AI systems**
-- Hands-on with **Speech AI** — ASR, TTS, voice enhancement, multilingual models
-- Deep focus on **Agentic AI** — autonomous agents, RAG pipelines, LLM orchestration
+- Hands-on with **Speech AI**, ASR, TTS, voice enhancement, multilingual models
+- Deep focus on **Agentic AI**, autonomous agents, RAG pipelines, LLM orchestration
 - Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps cycles
-- BSc Computer Science — Sukkur IBA University (2021–2024)
+- BSc Computer Science from Sukkur IBA University (2021–2024)
 
 ---
 
@@ -148,18 +148,11 @@ class IslamNabi:
 | Period | Role | Company |
 |---|---|---|
 | **Nov 2025 – Present** | Associate AI Engineer | Mayfair Asian Food Industries Ltd., Lahore |
-| **Sep – Nov 2025** | AI Engineer Intern (Speech AI) | PureLogics Software House, Lahore |
-| **May – Jul 2025** | AI Engineer Trainee | PureLogics Software House, Lahore |
+| **Sep – Nov 2025** | AI/ML Engineer Intern | PureLogics Software House, Lahore |
+| **May – Jul 2025** | AI/ML Engineer Trainee | PureLogics Software House, Lahore |
 | **Nov 2023 – Apr 2024** | LLM Trainer | Remotasks (San Francisco, USA) — Remote |
 | **Jul – Aug 2024** | Frontend Developer Intern | InternnCraft — Remote |
 
-**Highlights:**
-- Built **GPU-optimized Speech AI pipelines** with Whisper, VITS, XTTS — production-ready, low-latency
-- Applied **LoRA fine-tuning** on speech models with rigorous WER evaluation
-- Trained and evaluated **LLMs for code reasoning** at Remotasks — improving output accuracy at scale
-- Completed intensive **12-week AI bootcamp** covering the full stack: ML → LLMs → Agents → Deployment
-
----
 
 ## GitHub Stats
 
