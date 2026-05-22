@@ -144,6 +144,20 @@ class IslamNabi:
 
 ---
 
+### Visitor Management System — FMCG Company
+> Next.js 16 · React 19 · TypeScript · MongoDB · AWS S3 · Tailwind CSS 4 · Serverless API
+
+- Architected a **full-stack enterprise visitor management system** on Next.js 16 App Router with serverless API routes featuring role-based access control (Admin/Receptionist), session-based authentication, and distinct capability sets per role enforced at both UI and API levels
+- Engineered a **real-time operations dashboard** tracking live stats (total visitors, currently inside, checked out, vehicles on premises) with time-duration display in `Xm / Xh Xm / Xd Xh Xm` format, one-click check-out, and badge viewing all backed by server-side paginated MongoDB queries
+- Built a **cloud-native biometric image pipeline** capturing visitor face and CNIC photos via browser Webcam API, uploading directly to AWS S3 through server-side logic, and retrieving securely via pre-signed URLs for private bucket access
+- Implemented a **CNIC-indexed blacklist enforcement engine** with real-time CNIC lookup on input and pre-submission, auto-blocking active blacklisted visitors with reason display, admin-controlled activate/deactivate toggle (zero hard deletes), and full CSV export from Admin Panel
+- Optimized **MongoDB query performance** with `createdAt: -1` indexed sorting, parallel `Promise.all` data and count queries, server-side search/status/type/date filtering via query parameters, and 25-records-per-page pagination applied uniformly across Dashboard, All Visitors, and Vehicles pages
+- Developed **auto-generated QR-coded visitor badges** with company logo, visitor details, meeting purpose, vehicle info, and print-ready layout alongside an Admin Panel with Daily/Weekly/Monthly/Blacklist CSV exports, custom date range reporting, visitor-type analytics, and system-wide statistics charts
+- Built a **dedicated vehicle tracking module** with real-time stats (total, inside, checked out), search by vehicle number/name/CNIC, status filters, and server-side pagination providing full vehicle lifecycle visibility per visit
+- Implemented **smart registration with auto-fill** for returning visitors, letters-only name validation, formatted CNIC/phone input masks, and CNIC-based blacklist pre-check ensuring clean, validated data entry with zero duplicate registration overhead
+
+---
+
 ## Experience
 
 | Period | Role | Company |
