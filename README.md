@@ -32,11 +32,11 @@ class IslamNabi:
     motto     = "AI doesn't replace humans — it amplifies what we can do."
 ```
 
-- Associate AI Engineer building **real-world, production-grade AI systems**
-- Hands-on with **Speech AI**, ASR, TTS, voice enhancement, multilingual models
-- Deep focus on **Agentic AI**, autonomous agents, RAG pipelines, LLM orchestration
-- Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps cycles
-- BSc Computer Science from Sukkur IBA University (2021–2024)
+- Associate AI Engineer building **real-world, Production-Grade AI Systems**
+- Hands-on with **Speech AI**, ASR, TTS, Voice Enhancement, Multilingual Models
+- Deep focus on **Agentic AI**, Autonomous Agents, RAG Pipelines, LLM Orchestration
+- Deploying AI on **AWS** with CI/CD, Docker, and MLflow for full MLOps Cycles
+- BS Computer Science from Sukkur IBA University (2021–2024)
 
 ---
 
