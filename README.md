@@ -130,11 +130,13 @@ class IslamNabi:
 ---
 
 ### Smart Vehicle Insurance Risk Assessment System
-> Python · ML · FastAPI · AWS · CI/CD
+> MLOps · Scikit-learn · FastAPI · MongoDB Atlas · AWS S3 · EC2 · ECR · Docker · GitHub Actions · CI/CD
 
-- Complete **ML pipeline** for insurance risk scoring with automated underwriting logic
-- Deployed with **CI/CD automation** on AWS production-ready from day one
-- Includes model versioning, drift monitoring, and retraining hooks
+- Architected a production-grade end-to-end MLOps pipeline for vehicle insurance risk assessment covering the full lifecycle data ingestion from MongoDB Atlas, schema-based validation, feature transformation, model training, S3 model registry, and live FastAPI inference on AWS EC2
+- Built a modular data pipeline with schema-driven validation via YAML configs, structured exception handling, and artifact entity tracking ensuring full traceability and reproducibility across every pipeline stage
+- Trained and evaluated a Scikit-learn classification model (XGBoost) for insurance claim likelihood prediction with cross-validation, Accuracy, Precision, Recall, and F1 scoring model versioned and stored in AWS S3 with automated loading at inference time
+- Implemented a FastAPI prediction API hosted on AWS EC2 that loads the production model directly from S3 at startup and serves real-time risk assessment predictions with a lightweight HTML frontend
+- Engineered a full CI/CD automation pipeline using Docker, GitHub Actions, and AWS ECR automating Build → Test → Push → Deploy on every commit with GitHub Secrets for secure credential management and a self-hosted EC2 runner for zero-downtime deployments
 
 ---
 
