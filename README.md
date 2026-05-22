@@ -141,11 +141,12 @@ class IslamNabi:
 ---
 
 ### Wrist Abnormality Detection System
-> YOLOv9 · Flask · LLMs · Medical Imaging
+> YOLOv9 · LLMs · Flask · Computer Vision · Medical Imaging · Deep Learning · GRAZPEDWRI-DX
 
-- **X-ray abnormality detection** using YOLOv9 with clinical-grade precision
-- Integrated **LLM-powered automated reporting** generates structured diagnostic summaries
-- Bridges computer vision and natural language for real-world medical AI applications
+- Sourced and preprocessed the GRAZPEDWRI-DX pediatric X-ray dataset from Kaggle containing 20,327 X-rays across 6,091 unique patients annotated by radiologists across 9 pathology classes including fractures, bone lesions, bone anomalies, soft tissue abnormalities, and periosteal reactions
+- Trained YOLOv9 on the GRAZPEDWRI-DX dataset achieving ~70% mAP across all 9 annotated pathology types leveraging the official YOLOv9 architecture integrated as a Git submodule for reproducibility
+- Integrated an LLM-powered automated diagnostic reporting engine that takes YOLOv9 detection outputs and generates structured, detailed X-ray diagnostic summaries bridging computer vision predictions with natural language clinical reporting
+- Developed a Flask-based end-to-end diagnostic web application with X-ray image upload, real-time YOLOv9 inference, bounding box visualization, LLM-generated diagnostic report display, and one-click PDF and diagnosed image download in a single unified interface
 
 ---
 
