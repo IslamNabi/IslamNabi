@@ -118,6 +118,18 @@ class IslamNabi:
 
 ---
 
+### Urdu Text-to-Speech System
+> OpenAI Whisper · VITS · Coqui XTTS-v2 · Chatterbox · Tortoise TTS · LoRA Fine-Tuning · ECAPA-TDNN · Silero VAD · DPTNet · MetricGAN+ · FastAPI · PyTorch
+
+- Researched, designed, and produced a 100-hour clean Urdu speech dataset with segmented voice chunks, aligned transcripts, and quality-validated metadata, using an automated data preparation pipeline, purpose-built for fine-tuning large TTS models
+- Implemented GPU-accelerated Urdu transcription using OpenAI Whisper Large v3 with optimized inference pipeline, benchmarked using Word Error Rate (WER) and linguistic tokenization via UrduHack
+- Evaluated and fine-tuned multiple TTS architectures including VITS, Coqui XTTS-v2, Chatterbox, and Tortoise TTS for multilingual Urdu voice synthesis, applying LoRA-based parameter-efficient fine-tuning to adapt large pretrained models with minimal compute overhead
+- Engineered an audio preprocessing pipeline combining Silero VAD and pyannote for intelligent speech segmentation with DPTNet and MetricGAN+ for noise reduction, normalization, and perceptual quality enhancement
+- Implemented zero-shot voice cloning and speaker conditioning using ECAPA-TDNN and X-Vector speaker embedding models, leveraging transfer learning on Facebook MMS and OpenAI TTS for improved Urdu language adaptation
+- Built a production MLOps backend with FastAPI, GPU inference optimization, checkpoint management, and automated model deployment with resumable, fault-tolerant data processing at scale
+
+---
+
 ### Employee Attendance System (CCTV-Based)
 > Computer Vision · InsightFace · Buffalo Model · FAISS · PostgreSQL · Next.js · OpenCV · Python · Deep Learning
 
